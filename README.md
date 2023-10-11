@@ -1,3 +1,8 @@
 # Life-of-a-Driver
 
-#(Work in progress)
+# Story (placeholder)
+# Gameplay (placeholder)
+# Main Objective (placeholder) 
+# Player Control (placeholder)
+# Codes Explained (placeholder)
+# Credits (placeholder)
