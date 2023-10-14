@@ -9,5 +9,6 @@ Your life as a driver who lost all of his money to gambling. Now you must find a
 # Gameplay (placeholder)
 # Main Objective (placeholder) 
 # Player Control (placeholder)
+# Core Loop (placeholder)
 # Codes Explained (placeholder)
 # Credits (placeholder)
