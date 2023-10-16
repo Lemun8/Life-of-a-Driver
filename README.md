@@ -2,7 +2,7 @@
 
 This game was made for a final group projects for one of our subjects at college. The game is about collecting enough money to pay debts that are due in 30 days of time.
 
-Game Enginge: Unity Editor Version 2021.3.21f1
+Game Engine: Unity Editor Version 2021.3.21f1
 
 # Story (placeholder)
 
