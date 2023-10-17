@@ -4,14 +4,20 @@ This game was made for a final group projects for one of our subjects at college
 
 Game Engine: Unity Editor Version 2021.3.21f1
 
-# Story (placeholder)
+# Story 
 
 Your life as a driver who lost all of his money to gambling. Now you must find a way to pay your crippling debt. You play as an uber driver who must pay your debt that's due in 30 days, several actions can be taken to make the neccesary money to pay off your debt, otherwise the loan sharks are going to find you. 
 
 # Gameplay (placeholder)
 # Main Objective (placeholder) 
-# Player Control (placeholder)
-# Core Loop (placeholder)
+
+# Controls
+
+## Player Control
+
+## Car Control
+
+# Core Loop 
 
 Each day you're given activity counters which are based on the time slot you are in right now. Activity Counters is a resource that the player spend in order to do activities. 
 
@@ -24,4 +30,4 @@ These activities include:
 Each of the action above will affect your gameplay and expend a counter which will advance the time.
 
 # Codes Explained (placeholder)
-# Credits (placeholder)
+# Credits 
