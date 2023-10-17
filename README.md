@@ -22,12 +22,16 @@ Your life as a driver who lost all of his money to gambling. Now you must find a
 Each day you're given activity counters which are based on the time slot you are in right now. Activity Counters is a resource that the player spend in order to do activities. 
 
 These activities include:
-- take customer orders (to gain money)
-- rest (to regenerate energy)
-- eat (to satisfy your hunger)
-- shop (to upgrade your car/home)
+- Take customer orders (to gain money)
+- Rest (to regenerate energy)
+- Eat (to satisfy your hunger)
+- Shop (to upgrade your car/home)
   
 Each of the action above will affect your gameplay and expend a counter which will advance the time.
 
 # Codes Explained (placeholder)
+
 # Credits 
+Johan Ariel - Game Programmer
+Sebastian Gabriel - Sound Designer & Game Designer
+Garyn Nobert Gunawan - Artist
