@@ -29,8 +29,6 @@ These activities include:
   
 Each of the action above will affect your gameplay and expend a counter which will advance the time.
 
-# Codes Explained (placeholder)
-
 # Credits 
 Johan Ariel - Game Programmer
 Sebastian Gabriel - Sound Designer & Game Designer
