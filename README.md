@@ -34,6 +34,6 @@ Each of the action above will affect your gameplay and expend a counter which wi
 
 # Credits 
 
-Johan Ariel - **Game Programmer & Game Designer** <br>
+Johan Ariel - **Game Programmer** <br>
 Garyn Norbert Gunawan - **Game Artist** <br>
-Sebastian Gabriel - **Sound Designer** <br>
+Sebastian Gabriel - **Sound Designer & Game Designer** <br>
