@@ -10,6 +10,8 @@ Your life as a driver who lost all of his money to gambling. Now you must find a
 
 # Gameplay (placeholder)
 
+Each day you will have a time set to do your activities. You can take orders from people to make money but you also have to take care of yourself so that you don't fall to exhaustion. Collect enough money to pay your debt.
+
 # Main Objective (placeholder) 
 
 Collect enough money to pay your debt so you can live free once again.
