@@ -22,12 +22,20 @@ Collect enough money to pay your debt so you can live free once again.
 
 | Key Binding       | Function          |
 | ----------------- | ----------------- |
-| W,S               | Movement          |
+| W,A,S,D           | Movement          |
 | Left Shift        | Sprint            |
 | E                 | Enter Vehicle     |
-| F                 | Exut Vehicle      |
+| F                 | Exit Vehicle      |
 
 ## Car Control
+
+| Key Binding       | Function          |
+| ----------------- | ----------------- |
+| W                 | Accelerate        |
+| A                 | Turn Left         |
+| S                 | Reverse           |
+| D                 | Turn Right        |
+| Spacebar          | Break             |
 
 # Core Loop 
 
