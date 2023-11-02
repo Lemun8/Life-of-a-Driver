@@ -37,6 +37,8 @@ Collect enough money to pay your debt so you can live free once again.
 | D                 | Turn Right        |
 | Spacebar          | Break             |
 
+## Menu Control
+
 # Core Loop 
 
 Each day you're given activity counters which are based on the time slot you are in right now. Activity Counters is a resource that the player spend in order to do activities. 
